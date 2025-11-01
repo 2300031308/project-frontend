@@ -1,6 +1,6 @@
 const config = 
 {
-    "url": "http://13.53.134.131:8086"
+    "url": "http://51.20.184.209:8086"
     // "https://sdpbackend-famf.onrender.com"
 }
 
